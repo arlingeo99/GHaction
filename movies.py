@@ -1,4 +1,4 @@
-movie = ["Forest Gump","Dune","Fast and Furious"]
+movie = ["Forest Gump", "Dune", "Fast and Furious"]
 
 print(movie[0])
 
@@ -9,7 +9,7 @@ movie.append("Spiderman")
 
 print(len(movie))
 
-movie.insert(1,"Hitman")
+movie.insert(1, "Hitman")
 
 
 #del(movie[2])

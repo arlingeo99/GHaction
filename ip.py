@@ -5,7 +5,7 @@ quest2 = int(input("Do you want to upperacse it? If so, enter 1. If you want to 
 
 if quest2 == 1:
     print(quest1.upper())
-elif quest2 ==2:
+elif quest2 == 2:
     print(quest1.lower())
 else:
     print("Invalid input")
